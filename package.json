@@ -2,9 +2,10 @@
   "name": "current-project",
   "version": "1.0.0",
   "description": "test",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "node script.js"
+    "dev": "node script.js"
   },
   "keywords": [ ],
   "author": "",
