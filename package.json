@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "te",
+  "scripts": {
+    "test": "et"
+  },
+  "repository": {
+    "type": "git",
+    "url": "et"
+  },
+  "keywords": [
+    "et"
+  ],
+  "author": "et",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
