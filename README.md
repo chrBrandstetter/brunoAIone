@@ -1,0 +1,2 @@
+# brunoAIone
+first AI try
