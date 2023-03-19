@@ -1,20 +1,14 @@
 {
-  "name": "api",
+  "name": "current-project",
   "version": "1.0.0",
   "description": "test",
-  "main": "te",
+  "main": "index.js",
   "scripts": {
-    "test": "et"
+    "test": "node script.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "et"
-  },
-  "keywords": [
-    "et"
-  ],
-  "author": "et",
-  "license": "UNLICENSED",
+  "keywords": [ ],
+  "author": "",
+  "license": "ISC", 
   "dependencies": {
     "dotenv": "^16.0.3",
     "openai": "^3.2.1"
